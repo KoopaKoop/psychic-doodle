@@ -18,7 +18,7 @@
   "homepage": "https://github.com/KoopaKoop/psychic-doodle#readme",
   "dependencies": {},
   "devDependencies": {}
-  "publishConfig": {
-   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
- }
+  {
+  "publishConfig": { "@koopakoop:registry": "https://npm.pkg.github.com" }
+  }
 }

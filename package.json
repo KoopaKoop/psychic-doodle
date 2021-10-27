@@ -1,8 +1,10 @@
 {
   "name": "@koopakoop/psychic-doodle",
   "version": "1.0.0",
-  "description": "some description",
+  "description": "somedescription",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "exit 0"
   },
@@ -15,10 +17,8 @@
   "bugs": {
     "url": "https://github.com/KoopaKoop/psychic-doodle/issues"
   },
-  "homepage": "https://github.com/KoopaKoop/psychic-doodle#readme",
-  "dependencies": {},
-  "devDependencies": {}
-  {
-  "publishConfig": { "@koopakoop:registry": "https://npm.pkg.github.com" }
-  }
+  "homepage": "https://github.com/KoopaKoop/psychic-doodle#readme"
+  "publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+ }
 }

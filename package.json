@@ -17,8 +17,9 @@
   "bugs": {
     "url": "https://github.com/KoopaKoop/psychic-doodle/issues"
   },
-  "homepage": "https://github.com/KoopaKoop/psychic-doodle#readme"
+    {
   "publishConfig": {
-   "@koopakoop:registry": "https://npm.pkg.github.com"
- }
+    "@koopakoop:registry": "https://npm.pkg.github.com"
+  },
+  "homepage": "https://github.com/KoopaKoop/psychic-doodle#readme"
 }
